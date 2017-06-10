@@ -13,4 +13,4 @@ These samples illustrate the possibility of generating network graphs from arbit
 
 The sample folder includes a GraphML file along with a Neo4j visualization.
 
-![GraphML Visualization](sample/anderson-graph.png)
+![GraphML Visualization](https://raw.githubusercontent.com/ATLA-OpenSource/scholar-graph/master/samples/anderson-graph.png)
