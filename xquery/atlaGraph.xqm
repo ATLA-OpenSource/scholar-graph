@@ -4,7 +4,7 @@ module namespace atlaGraph = "http://www.andersoncliffb.net/atlaGraph";
 
 declare namespace graphml = "http://graphml.graphdrawing.org/xmlns";
 
-import module namespace functx = 'http://www.functx.com' at "http://www.xqueryfunctions.com/xq/functx-1.0-nodoc-2005-11.xq";
+import module namespace functx = 'http://www.functx.com' at "http://www.xqueryfunctions.com/xq/functx-1.0-nodoc-2007-01.xq";
 
 declare  %private function atlaGraph:hash-string($string as xs:string?) as xs:string?
 {
